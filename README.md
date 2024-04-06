@@ -40,6 +40,11 @@ The main challenge of this game is players’ proficiency of gameplay skill. The
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
+Making a distinct mapping and setting interesting rewards, this is how I invite the player to explore my game. Clearly mapping inside my game, provide a good guideline for player, they can lead by map and explore area in between game, that they are not confused themselves. An open space in second section has been created with a big tree, an open area with beautiful land view may facilitate players’ curious, this one of my memorable design for player spend most time on this game. And connection area with bunch of rewards, gives them opportunities of explorations. The entry of third section, was hide with destructible block, this one of setting that I want player have fun with their explorations. Exploration inside game provide a fun of playing, surprises made for players will give them memorable gameplay experiences.
+
+
+![Exploration](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/f50fc354-5f93-43da-8292-3150af1db91f)
+
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
@@ -47,21 +52,38 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.1. Spikes
 
-### 2.2. Checkpoints
+Spikes is a trap around map, when you jump or step on it, you will loss health, also you will bounce back after you hit the spikes. So you should jump over spikes or avoid spikes.
+![Spikes](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/88a9e0cb-cb77-4f3f-b7dc-d545e9e7d2ec)
 
-### 2.3. Chompers
+
+### 2.2. Chompers
+Chompers is one of enemy in this game, they will attack you when you close enough to them, you will loss health and bounce back when you are getting their hit. You can attack them with gun and weapon, also you can jump over them.
+![Chompers](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/4e6fbd3a-90df-4933-ba08-acb1752f106a)
+
+
+### 2.3. Acid
+Acid a poison pool in the game, when you jump into acid, you will dead and respawn from start or checkpoint, you should jump over Acid anytime.
+![Acid](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/872adc77-7be9-43af-b972-108e0924e8cc)
+
+
 
 ### 2.4. Health Pickups
+Health pickups is item that you can get health back, when you loss your health, sometimes it could save you for a whiles.
+![Health Pickups](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/a378a6ea-c51a-4fa2-81fc-9b02c1471a12)
+
 
 ### 2.5. Keys
+Keys is most important items that you should collect, your final goal of game is collect three keys to open the exit door, so remember find three of keys.
 
 ### 2.6. Moving Platforms
+Moving platforms is a platform moving in a frequently directions, it could helps you jump over traps in this game. 
+![Moving platform](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/e290964f-d86f-44a7-816e-80055b4af3b8)
 
 ### 2.7. Passthrough Platforms
 
-### 2.8. Spikes
+### 2.8. Checkpoints
 
 ### 2.9. Spitters
 
