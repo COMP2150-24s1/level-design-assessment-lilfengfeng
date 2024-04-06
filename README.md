@@ -124,7 +124,8 @@ At start of my game design, I designed it with a brief structure and required it
 
 I want my toys interesting for player to explore and learning the basic mechanic. So, I change my design idea, I separate game into three different sections, and for each section there are more encounter inside for player to play with.
 I keep the idea of first section, at this point, I want my level simple and distinct, which let player familiar with the core mechanics of this games. After first play test of this section, the design of game flow is much better, with more detailed changes, it perfectly shows the learning of core mechanics right now.
-![屏幕截图(96)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/930eaea1-4797-405b-a665-088eb06ce7ff)
+![屏幕截图(96)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/ab9fb06f-72a8-43ec-934b-03808d1ee3d4)
+
 ![ScreenShot(100)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/70afc1f6-ef68-4324-9be5-2acf6ef196d1)
 
 And I add two encounters for second sections and third sections. The brief storyboarding diagram really helps me scaffolding my game design, the clear action and experience show in storyboarding, within detailed items and enemies setting inside, this captures my thought of level design, so the game testing shows there isn’t any decreasing of intensity, but the only reason is there is less immediate feedback, so I indicate add in more rewards to attract players’ interest.
