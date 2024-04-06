@@ -27,6 +27,10 @@ In my Design practice, player can learn the mechanic of my game. In first sectio
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+The intensity curve of my game is sequentially increase when the level increase. At start of game, fundamental gameplay presented in first section, low intensity provides a safe environment for player learning the game rules of game, we can see it just simple jumping movement, leading player towards the game rules. When player entry second section, that they should have general skill of gameplay, so I increased intensity, which I made narrative encounter explorations, to make player feeling the challenge, things like solve puzzles, doge attract from spitter, efficiently increasing the intensity and difficulty. Third section of game, it is highest point of intensity. Huge acid with challenge platform jumping, difficulty boss fight room, they both arise the intensity between the gameplays. The story of whole game, that player can feel the experience during the intensity increase, there is no narration inside game, it still can see a brief structure of an adventure story telling.
+![Uploading Intensity Curve.jpg…]()
+
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
