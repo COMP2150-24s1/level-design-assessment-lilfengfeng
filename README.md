@@ -35,6 +35,8 @@ The intensity curve of my game is sequentially increase when the level increase.
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+The main challenge of this game is players’ proficiency of gameplay skill. The idea of my game is a 2D platform game, proficiency of physical gameplay skill is always biggest challenge for players, based on this purpose, narrative platform movement is applied in game. To control the flow of gameplay, I gives immediate feedback such as health pick and weapons for player to uses, especially when I do the iterative design of my game test, things like setting more rewards, changes in between challenges, that balance the difficulty of the game. Also, it is important to set a check point before a higher level for player, it is decreasing the tension of challenge, so player can have a break until they start next challenge, it is way of how we temper the dynamic difficulty. With this process of challenge taking place, player improved their skills of gameplay, and immersion their self into the game, this how challenge works in my game.
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
