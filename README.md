@@ -21,6 +21,9 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
+In my Design practice, player can learn the mechanic of my game. In first section of my game, I set basic elements that player can learning how to play around in this game, there is elements such as, spikes, acid, and enemies, that could make player loss lives, also there are health pick-up, walkthrough platform that they need to learn how they can play around with my toy. The process that they learn concept of game is the goal of scaffold discovery in a game. When I design each encounter in my game, there always one skill challenge, this provide a clear learning goal for player with each of encounter, then they can quickly learn my game mechanics. Once player familiar with core game rules, then they can capture skills when they play the next level of game, so I arise the difficulty of level design, make sure player learn new skills with new elements, and different levels.
+![ScreenShot(100)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/48180205-0797-42c6-842c-a9124efc8fd3)
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
