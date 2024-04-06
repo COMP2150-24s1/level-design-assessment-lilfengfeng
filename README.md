@@ -82,14 +82,24 @@ Moving platforms is a platform moving in a frequently directions, it could helps
 ![Moving platform](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/e290964f-d86f-44a7-816e-80055b4af3b8)
 
 ### 2.7. Passthrough Platforms
+Passthrough platforms is a platform that you can stand and jump on it.
+![Passthrough Platform](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/b6e70bc5-ce64-4bf0-a54a-f09028802aa8)
+
 
 ### 2.8. Checkpoints
+Checkpoint is a set point for your new start point, it can be changes to another checkpoint depending on which point is closer to you, and you could respawn from checkpoint since you dead someway.
+![Checkpoint](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/4f4429be-bebc-47ad-a678-586eee32589b)
+
 
 ### 2.9. Spitters
+Spitters is one of enemy in this game, they can spitter acid towards you, when you hit acid, you will loss health, also they are attackable, which means you can use weapon kill them.
+![Spitters](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/de764b98-fbd7-490e-b2a9-fe6c21071d18)
 
 ### 2.10. Weapon Pickup (Gun)
+Gun is an items that you could pickup from map, they gives you abillity to attack enemies from long range.
 
 ### 2.11. Weapon Pickup (Staff)
+Staff is an items that you could pickup from map, that you can uses them attack enemies close enough.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
