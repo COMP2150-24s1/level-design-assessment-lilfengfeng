@@ -117,6 +117,25 @@ No additional words are necessary for this section (any words should only be wit
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
+At start of my game design, I designed it with a brief structure and required items setting inside, there was three parts of game, a linear challenge platform game, with little bit change in between them, there is intensity with increasing difficulty, but it is quite bored for player to play with. 
+![B parts1](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/86e6d0d1-f3d8-4744-b413-6f591dacb4f3)
+![b parts2](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/22f20043-ed29-4ca5-8cc4-0666e7b51821)
+![B parts3](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/8eeabddf-6e00-49dc-bc50-964636f1f7f9)
+
+I want my toys interesting for player to explore and learning the basic mechanic. So, I change my design idea, I separate game into three different sections, and for each section there are more encounter inside for player to play with.
+I keep the idea of first section, at this point, I want my level simple and distinct, which let player familiar with the core mechanics of this games. After first play test of this section, the design of game flow is much better, with more detailed changes, it perfectly shows the learning of core mechanics right now.
+![屏幕截图(96)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/930eaea1-4797-405b-a665-088eb06ce7ff)
+![ScreenShot(100)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/70afc1f6-ef68-4324-9be5-2acf6ef196d1)
+
+And I add two encounters for second sections and third sections. The brief storyboarding diagram really helps me scaffolding my game design, the clear action and experience show in storyboarding, within detailed items and enemies setting inside, this captures my thought of level design, so the game testing shows there isn’t any decreasing of intensity, but the only reason is there is less immediate feedback, so I indicate add in more rewards to attract players’ interest.
+![p1 section2](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/fae93392-977f-435f-be80-b53ef6c1726f)
+![p2 section2](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/de9ff174-ebba-432c-9b54-90e19a74c54b)
+
+And another thing I did is, for this section I modified background. It is always a enjoyable, that play game with a memorisable game land view, so I find a big tree as background in this section, this modify the story telling behind the playing as well, and provide interest for player to have a exploration in this open area.
+![section 2](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/84e98235-84d6-4eae-8f83-514a851e03a9)
+![屏幕截图(102)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/3e0e77ef-1a1f-4124-b479-ada22e61ead6)
+
+
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 ## Generative AI Use Acknowledgement
