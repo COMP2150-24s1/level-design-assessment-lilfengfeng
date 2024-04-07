@@ -138,7 +138,8 @@ And I add two encounters for second sections and third sections. The brief story
 
 And another thing I did is, for this section I modified background. It is always a enjoyable, that play game with a memorisable game land view, so I find a big tree as background in this section, this modify the story telling behind the playing as well, and provide interest for player to have a exploration in this open area.
 ![section 2](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/84e98235-84d6-4eae-8f83-514a851e03a9)
-![屏幕截图(102)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/3e0e77ef-1a1f-4124-b479-ada22e61ead6)
+![屏幕截图(102)](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/f555034f-b74f-43e5-82df-82eda4f8b541)
+
 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
