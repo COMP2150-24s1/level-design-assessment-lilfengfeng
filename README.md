@@ -107,12 +107,16 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
+![molecular diagram](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/95663faa-7e28-4354-8521-1d6973194057)
 
 ### 3.2. Level Map – Section 1
+![Section 1](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/8f023a2d-4bda-41af-a3da-3b8e9b014e80)
 
 ### 3.3.	Level Map – Section 2
+![Section 2 new](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/65396e43-43e7-47a0-80ba-f861e2fe1f26)
 
 ### 3.4.	Level Map – Section 3
+![Section 3](https://github.com/COMP2150-24s1/level-design-assessment-lilfengfeng/assets/106721448/2e316099-dda6-4be4-a236-9b49c1ba6ce9)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
